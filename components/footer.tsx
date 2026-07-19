@@ -4,6 +4,7 @@ import { SocialLinks } from "@/components/social-links";
 
 const QUICK_LINKS = [
   { label: "About", href: "/about" },
+  { label: "Experience", href: "/experience" },
   { label: "Projects", href: "/projects" },
   { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },
